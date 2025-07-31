@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 ```env
 DEBUG=True
-SECRET_KEY=senin_secret_keyin
+SECRET_KEY=secret_key
 ALLOWED_HOSTS=127.0.0.1,localhost
 DATABASE_URL=sqlite:///db.sqlite3
 ```
